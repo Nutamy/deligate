@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HfvPHG1h4zRJr3tnZEInDdFLHj1bujobYi9jaKpBw2Nfnfzz8sGfRVq55QptERe79mOyjKWwGKUO1uy1BaV1tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Python\\source\\c4w3\\3MySolution\\autograder materials\\ProgrammingAssignment3\\ProgrammingAssignment3\\ProgrammingAssignment3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Python\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Python\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Python\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Python\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
